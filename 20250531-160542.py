@@ -6,7 +6,7 @@ control how long the loop runs.
 the loop when the user enters a 
 'quit' value.
 
-solution _______&&&&
+solution ______
 prompt = "Enter a pizza topping (enter 'quit' to stop): "
 topping = ""
 while topping != 'quit':
